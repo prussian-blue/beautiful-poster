@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/experiments/beautiful-poster/static/css/main.43c0b485.chunk.css",
+    "main.css": "/experiments/beautiful-poster/static/css/main.655934ee.chunk.css",
     "main.js": "/experiments/beautiful-poster/static/js/main.db6e6e8f.chunk.js",
     "main.js.map": "/experiments/beautiful-poster/static/js/main.db6e6e8f.chunk.js.map",
     "runtime-main.js": "/experiments/beautiful-poster/static/js/runtime-main.23f61ada.js",
@@ -8,14 +8,14 @@
     "static/js/2.ab796602.chunk.js": "/experiments/beautiful-poster/static/js/2.ab796602.chunk.js",
     "static/js/2.ab796602.chunk.js.map": "/experiments/beautiful-poster/static/js/2.ab796602.chunk.js.map",
     "index.html": "/experiments/beautiful-poster/index.html",
-    "precache-manifest.84fa968ce8a3f8f431d1ae5fadaf681e.js": "/experiments/beautiful-poster/precache-manifest.84fa968ce8a3f8f431d1ae5fadaf681e.js",
+    "precache-manifest.3fcb71dfd94b46c8813b78f8b88145bc.js": "/experiments/beautiful-poster/precache-manifest.3fcb71dfd94b46c8813b78f8b88145bc.js",
     "service-worker.js": "/experiments/beautiful-poster/service-worker.js",
-    "static/css/main.43c0b485.chunk.css.map": "/experiments/beautiful-poster/static/css/main.43c0b485.chunk.css.map"
+    "static/css/main.655934ee.chunk.css.map": "/experiments/beautiful-poster/static/css/main.655934ee.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.23f61ada.js",
     "static/js/2.ab796602.chunk.js",
-    "static/css/main.43c0b485.chunk.css",
+    "static/css/main.655934ee.chunk.css",
     "static/js/main.db6e6e8f.chunk.js"
   ]
 }
