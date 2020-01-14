@@ -1,4 +1,5 @@
 {
+  "homepage": "https://www.dvicario.es/experiments/beautiful-poster",
   "name": "beautiful-poster",
   "version": "0.1.0",
   "private": true,
@@ -6,6 +7,8 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "d3": "^5.15.0",
+    "d3-timer": "^1.0.10",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "3.3.0"
